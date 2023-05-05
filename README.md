@@ -1,3 +1,5 @@
+![cover](https://rainbow.mypinata.cloud/ipfs/QmY6Aojp9sSFKAaUBBGCQJEta87NLkNZptBsiqZF2LYRG8)
+
 # Lorem ipsum, hello world
 
 Hi. I'm Denis he/him dev and designer with a passion for creating beautiful, intuitive digital experiences. I also dabble in creative design, bringing a unique perspective and style to my work.
