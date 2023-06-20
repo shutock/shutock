@@ -1,4 +1,4 @@
-![cover](https://rainbow.mypinata.cloud/ipfs/QmY6Aojp9sSFKAaUBBGCQJEta87NLkNZptBsiqZF2LYRG8)
+![cover](https://dl.openseauserdata.com/cache/originImage/files/499c1d74a2597483708e3e54e01aa753.png)
 
 # Lorem ipsum, hello world
 
