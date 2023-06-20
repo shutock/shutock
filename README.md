@@ -1,4 +1,4 @@
-![cover](https://dl.openseauserdata.com/cache/originImage/files/499c1d74a2597483708e3e54e01aa753.png)
+![cover](https://github.com/shutock/shutock/blob/a74db3ed4173c952fee0de3bb9a32e07c13d2a0c/cover.png)
 
 # Lorem ipsum, hello world
 
