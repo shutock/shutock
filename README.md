@@ -19,7 +19,7 @@ I've been working in the industry for 10+ years, honing my skills and working on
 Want to get in touch? Feel free to [yo@shutock.com](mailto:yo@shutock.com) or [https://shutock.t.me](shutock.t.me). I'm always happy to chat about design, development, and everything in between.
 
 <div style="display: flex; gap: 8px">
-  <a href="https://bsky.app/shutock.com">
+  <a href="https://bsky.app/profile/shutock.com">
     <img width=32 src="./images/bluesky.svg">
   </a>
   <a href="https://t.me/shutock">
