@@ -22,4 +22,6 @@ Want to get in touch? Feel free to [yo@shutock.com](mailto:yo@shutock.com) or [h
   <a href="https://bsky.app/profile/shutock.com"><img width=32 src="./images/bluesky.svg"></a>
   <a href="https://t.me/shutock"><img width=32 src="./images/telegram.svg"></a>
   <a href="https://x.com/eeftp"><img width=32 src="./images/x.svg"></a>
-  <a href="https://hey.xyz/u/shutock"><img width=32 src="./images/hey.svg"></a><a href="https://instagram.com/shutock"><img width=32 src="./images/instagram.svg"></a></div>
+  <a href="https://hey.xyz/u/shutock"><img width=32 src="./images/hey.svg"></a>
+  <a href="https://instagram.com/shutock"><img width=32 src="./images/instagram.svg"></a>
+</div>
